@@ -67,3 +67,15 @@ DB_PASSWORD=
 ```bash
 php artisan migrate
 ```
+
+## モデルとマイグレーションファイル生成
+
+-   以下は Password モデルを生成する例。
+
+```bash
+php artisan make:model Password -m
+```
+
+## ログファイル
+
+-   `C:\xampp\htdocs\confidential-manager-api\storage\logs\laravel.log`

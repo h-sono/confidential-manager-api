@@ -79,3 +79,8 @@ php artisan make:model Password -m
 ## ログファイル
 
 -   `C:\xampp\htdocs\confidential-manager-api\storage\logs\laravel.log`
+
+## テストユーザー
+
+-   email：taro@example.com、password：password123
+-   email：taro2@example.com、password：password1234

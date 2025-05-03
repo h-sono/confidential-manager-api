@@ -1,7 +1,5 @@
 <?php
 
-// APIのルート設定
-
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
